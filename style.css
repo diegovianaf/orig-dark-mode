@@ -5,7 +5,7 @@
   --background-2: #fff;
   --text: #000;
   --subtitle-color: rgb(0, 0, 0, 0.2);
-  --wave: url('./img/onda-clara.svg');
+  --wave: url('./img/onda.svg');
 }
 
 @media (prefers-color-scheme: dark) {
